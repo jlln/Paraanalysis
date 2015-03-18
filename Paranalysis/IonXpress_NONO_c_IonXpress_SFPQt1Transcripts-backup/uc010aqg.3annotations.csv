@@ -1,0 +1,10 @@
+,End_Region,Start_Region,feature_classification,feature_end,feature_length,feature_start,feature_subtype_index,feature_type,feature_type_index
+0,,,5'-UTR,64988222,16931.0,64971291,1,5'-UTR,1
+1,5'-UTR,5'-UTR,Exon from 5'-UTR to 5'-UTR,64971664,373.0,64971291,1,Exon,1
+0,,,Splice Junction Exon from 5'-UTR to 5'-UTR to Intron from 5'-UTR to 5'-UTR,64971664,,64971664,1,Splice Junction ,1
+2,5'-UTR,5'-UTR,Intron from 5'-UTR to 5'-UTR,64988203,16539.0,64971664,1,Intron,1
+0,,,Splice Junction Intron from 5'-UTR to 5'-UTR to Exon from 5'-UTR to 3'-UTR,64988204,,64988203,1,Splice Junction ,2
+3,3'-UTR,5'-UTR,Exon from 5'-UTR to 3'-UTR,64991669,3465.0,64988204,1,Exon,2
+0,,,Translation_Start,64988222,,64988222,1,Translation_Start,1
+0,,,Translation_End,64990364,,64990364,1,Translation_End,1
+4,,,3'-UTR,64991669,1305.0,64990364,1,3'-UTR,1

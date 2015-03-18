@@ -1,0 +1,18 @@
+,End_Region,Start_Region,feature_classification,feature_end,feature_length,feature_start,feature_subtype_index,feature_type,feature_type_index
+0,,,5'-UTR,119246617.0,38.0,119246579.0,1,5'-UTR,1
+1,Coding_Region,5'-UTR,Exon from 5'-UTR to Coding_Region,119246688.0,109.0,119246579.0,1,Exon,2
+0,,,Translation_Start,119246617.0,,119246617.0,1,Translation_Start,1
+2,Coding_Region,Coding_Region,Intron from Coding_Region to Coding_Region,119255982.0,9294.0,119246688.0,1,Intron,1
+0,,,Splice Junction Exon from 5'-UTR to Coding_Region to Intron from Coding_Region to Coding_Region,119246688.0,,119246688.0,1,Splice Junction ,1
+0,,,Splice Junction Intron from Coding_Region to Coding_Region to Exon from Coding_Region to Coding_Region,119255983.0,,119255982.0,1,Splice Junction ,2
+3,Coding_Region,Coding_Region,Exon from Coding_Region to Coding_Region,119256265.0,282.0,119255983.0,1,Exon,3
+0,,,Splice Junction Exon from Coding_Region to Coding_Region to Intron from Coding_Region to Coding_Region,119256265.0,,119256265.0,1,Splice Junction ,3
+4,Coding_Region,Coding_Region,Intron from Coding_Region to Coding_Region,119263395.0,7130.0,119256265.0,2,Intron,2
+1,,,Splice Junction Intron from Coding_Region to Coding_Region to Exon from Coding_Region to Coding_Region,119263396.0,,119263395.0,2,Splice Junction ,4
+5,Coding_Region,Coding_Region,Exon from Coding_Region to Coding_Region,119263714.0,318.0,119263396.0,2,Exon,4
+6,Coding_Region,Coding_Region,Intron from Coding_Region to Coding_Region,119276474.0,12760.0,119263714.0,3,Intron,3
+1,,,Splice Junction Exon from Coding_Region to Coding_Region to Intron from Coding_Region to Coding_Region,119263714.0,,119263714.0,2,Splice Junction ,5
+0,,,Splice Junction Intron from Coding_Region to Coding_Region to Exon from Coding_Region to 3'-UTR,119276475.0,,119276474.0,1,Splice Junction ,6
+7,3'-UTR,Coding_Region,Exon from Coding_Region to 3'-UTR,119276775.0,300.0,119276475.0,1,Exon,1
+0,,,Translation_End,119276575.0,,119276575.0,1,Translation_End,1
+8,,,3'-UTR,119276775.0,200.0,119276575.0,1,3'-UTR,1

@@ -1,0 +1,22 @@
+,End_Region,Start_Region,feature_classification,feature_end,feature_length,feature_start,feature_subtype_index,feature_type,feature_type_index
+0,,,5'-UTR,31805105,2413.0,31802692,1,5'-UTR,1
+1,5'-UTR,5'-UTR,Exon from 5'-UTR to 5'-UTR,31802977,285.0,31802692,1,Exon,1
+2,5'-UTR,5'-UTR,Intron from 5'-UTR to 5'-UTR,31803186,209.0,31802977,1,Intron,1
+0,,,Splice Junction Exon from 5'-UTR to 5'-UTR to Intron from 5'-UTR to 5'-UTR,31802977,,31802977,1,Splice Junction ,1
+0,,,Splice Junction Intron from 5'-UTR to 5'-UTR to Exon from 5'-UTR to 5'-UTR,31803187,,31803186,1,Splice Junction ,2
+3,5'-UTR,5'-UTR,Exon from 5'-UTR to 5'-UTR,31803228,41.0,31803187,2,Exon,2
+1,,,Splice Junction Exon from 5'-UTR to 5'-UTR to Intron from 5'-UTR to 5'-UTR,31803228,,31803228,2,Splice Junction ,3
+4,5'-UTR,5'-UTR,Intron from 5'-UTR to 5'-UTR,31804199,971.0,31803228,2,Intron,2
+1,,,Splice Junction Intron from 5'-UTR to 5'-UTR to Exon from 5'-UTR to 5'-UTR,31804200,,31804199,2,Splice Junction ,4
+5,5'-UTR,5'-UTR,Exon from 5'-UTR to 5'-UTR,31804294,94.0,31804200,3,Exon,3
+2,,,Splice Junction Exon from 5'-UTR to 5'-UTR to Intron from 5'-UTR to 5'-UTR,31804294,,31804294,3,Splice Junction ,5
+6,5'-UTR,5'-UTR,Intron from 5'-UTR to 5'-UTR,31805011,717.0,31804294,3,Intron,3
+0,,,Splice Junction Intron from 5'-UTR to 5'-UTR to Exon from 5'-UTR to Coding_Region,31805012,,31805011,1,Splice Junction ,6
+7,Coding_Region,5'-UTR,Exon from 5'-UTR to Coding_Region,31805212,200.0,31805012,1,Exon,5
+0,,,Translation_Start,31805105,,31805105,1,Translation_Start,1
+0,,,Splice Junction Exon from 5'-UTR to Coding_Region to Intron from Coding_Region to Coding_Region,31805212,,31805212,1,Splice Junction ,7
+8,Coding_Region,Coding_Region,Intron from Coding_Region to Coding_Region,31807318,2106.0,31805212,1,Intron,4
+0,,,Splice Junction Intron from Coding_Region to Coding_Region to Exon from Coding_Region to 3'-UTR,31807319,,31807318,1,Splice Junction ,8
+9,3'-UTR,Coding_Region,Exon from Coding_Region to 3'-UTR,31807541,222.0,31807319,1,Exon,4
+0,,,Translation_End,31807440,,31807440,1,Translation_End,1
+10,,,3'-UTR,31807541,101.0,31807440,1,3'-UTR,1

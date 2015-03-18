@@ -1,0 +1,56 @@
+,End_Region,Start_Region,feature_classification,feature_end,feature_length,feature_start,feature_subtype_index,feature_type,feature_type_index
+0,,,5'-UTR,10822508.0,0.0,10822508.0,1,5'-UTR,1
+0,,,Translation_Start,10822508.0,,10822508.0,1,Translation_Start,1
+1,Coding_Region,Coding_Region,Intron from Coding_Region to Coding_Region,10823594.0,960.0,10822634.0,1,Intron,8
+0,,,Splice Junction Intron from Coding_Region to Coding_Region to Exon from Coding_Region to Coding_Region,10823595.0,,10823594.0,1,Splice Junction ,1
+2,Coding_Region,Coding_Region,Exon from Coding_Region to Coding_Region,10823756.0,161.0,10823595.0,1,Exon,9
+0,,,Splice Junction Exon from Coding_Region to Coding_Region to Intron from Coding_Region to Coding_Region,10823756.0,,10823756.0,1,Splice Junction ,2
+3,Coding_Region,Coding_Region,Intron from Coding_Region to Coding_Region,10823839.0,83.0,10823756.0,2,Intron,9
+1,,,Splice Junction Intron from Coding_Region to Coding_Region to Exon from Coding_Region to Coding_Region,10823840.0,,10823839.0,2,Splice Junction ,3
+4,Coding_Region,Coding_Region,Exon from Coding_Region to Coding_Region,10823982.0,142.0,10823840.0,2,Exon,10
+1,,,Splice Junction Exon from Coding_Region to Coding_Region to Intron from Coding_Region to Coding_Region,10823982.0,,10823982.0,2,Splice Junction ,4
+5,Coding_Region,Coding_Region,Intron from Coding_Region to Coding_Region,10824575.0,593.0,10823982.0,3,Intron,10
+2,,,Splice Junction Intron from Coding_Region to Coding_Region to Exon from Coding_Region to Coding_Region,10824576.0,,10824575.0,3,Splice Junction ,5
+6,Coding_Region,Coding_Region,Exon from Coding_Region to Coding_Region,10824675.0,99.0,10824576.0,3,Exon,11
+2,,,Splice Junction Exon from Coding_Region to Coding_Region to Intron from Coding_Region to Coding_Region,10824675.0,,10824675.0,3,Splice Junction ,6
+7,Coding_Region,Coding_Region,Intron from Coding_Region to Coding_Region,10824756.0,81.0,10824675.0,4,Intron,11
+3,,,Splice Junction Intron from Coding_Region to Coding_Region to Exon from Coding_Region to Coding_Region,10824757.0,,10824756.0,4,Splice Junction ,7
+8,Coding_Region,Coding_Region,Exon from Coding_Region to Coding_Region,10824841.0,84.0,10824757.0,4,Exon,12
+3,,,Splice Junction Exon from Coding_Region to Coding_Region to Intron from Coding_Region to Coding_Region,10824841.0,,10824841.0,4,Splice Junction ,8
+9,Coding_Region,Coding_Region,Intron from Coding_Region to Coding_Region,10825025.0,184.0,10824841.0,5,Intron,12
+4,,,Splice Junction Intron from Coding_Region to Coding_Region to Exon from Coding_Region to Coding_Region,10825026.0,,10825025.0,5,Splice Junction ,9
+10,Coding_Region,Coding_Region,Exon from Coding_Region to Coding_Region,10825137.0,111.0,10825026.0,5,Exon,13
+11,Coding_Region,Coding_Region,Intron from Coding_Region to Coding_Region,10825444.0,307.0,10825137.0,6,Intron,13
+4,,,Splice Junction Exon from Coding_Region to Coding_Region to Intron from Coding_Region to Coding_Region,10825137.0,,10825137.0,5,Splice Junction ,10
+0,,,Splice Junction Intron from Coding_Region to Coding_Region to Exon from Coding_Region to 3'-UTR,10825445.0,,10825444.0,1,Splice Junction ,11
+12,3'-UTR,Coding_Region,Exon from Coding_Region to 3'-UTR,10825597.0,152.0,10825445.0,1,Exon,8
+0,,,Translation_End,10825529.0,,10825529.0,1,Translation_End,1
+13,,,3'-UTR,10829631.0,4102.0,10825529.0,1,3'-UTR,1
+14,3'-UTR,3'-UTR,Intron from 3'-UTR to 3'-UTR,10825682.0,85.0,10825597.0,1,Intron,1
+0,,,Splice Junction Exon from Coding_Region to 3'-UTR to Intron from 3'-UTR to 3'-UTR,10825597.0,,10825597.0,1,Splice Junction ,12
+0,,,Splice Junction Intron from 3'-UTR to 3'-UTR to Exon from 3'-UTR to 3'-UTR,10825683.0,,10825682.0,1,Splice Junction ,13
+15,3'-UTR,3'-UTR,Exon from 3'-UTR to 3'-UTR,10825750.0,67.0,10825683.0,1,Exon,1
+16,3'-UTR,3'-UTR,Intron from 3'-UTR to 3'-UTR,10825832.0,82.0,10825750.0,2,Intron,2
+0,,,Splice Junction Exon from 3'-UTR to 3'-UTR to Intron from 3'-UTR to 3'-UTR,10825750.0,,10825750.0,1,Splice Junction ,14
+1,,,Splice Junction Intron from 3'-UTR to 3'-UTR to Exon from 3'-UTR to 3'-UTR,10825833.0,,10825832.0,2,Splice Junction ,15
+17,3'-UTR,3'-UTR,Exon from 3'-UTR to 3'-UTR,10825965.0,132.0,10825833.0,2,Exon,2
+18,3'-UTR,3'-UTR,Intron from 3'-UTR to 3'-UTR,10826458.0,493.0,10825965.0,3,Intron,3
+1,,,Splice Junction Exon from 3'-UTR to 3'-UTR to Intron from 3'-UTR to 3'-UTR,10825965.0,,10825965.0,2,Splice Junction ,16
+2,,,Splice Junction Intron from 3'-UTR to 3'-UTR to Exon from 3'-UTR to 3'-UTR,10826459.0,,10826458.0,3,Splice Junction ,17
+19,3'-UTR,3'-UTR,Exon from 3'-UTR to 3'-UTR,10826562.0,103.0,10826459.0,3,Exon,3
+2,,,Splice Junction Exon from 3'-UTR to 3'-UTR to Intron from 3'-UTR to 3'-UTR,10826562.0,,10826562.0,3,Splice Junction ,18
+20,3'-UTR,3'-UTR,Intron from 3'-UTR to 3'-UTR,10827452.0,890.0,10826562.0,4,Intron,4
+3,,,Splice Junction Intron from 3'-UTR to 3'-UTR to Exon from 3'-UTR to 3'-UTR,10827453.0,,10827452.0,4,Splice Junction ,19
+21,3'-UTR,3'-UTR,Exon from 3'-UTR to 3'-UTR,10827594.0,141.0,10827453.0,4,Exon,4
+3,,,Splice Junction Exon from 3'-UTR to 3'-UTR to Intron from 3'-UTR to 3'-UTR,10827594.0,,10827594.0,4,Splice Junction ,20
+22,3'-UTR,3'-UTR,Intron from 3'-UTR to 3'-UTR,10828365.0,771.0,10827594.0,5,Intron,5
+4,,,Splice Junction Intron from 3'-UTR to 3'-UTR to Exon from 3'-UTR to 3'-UTR,10828366.0,,10828365.0,5,Splice Junction ,21
+23,3'-UTR,3'-UTR,Exon from 3'-UTR to 3'-UTR,10828432.0,66.0,10828366.0,5,Exon,5
+4,,,Splice Junction Exon from 3'-UTR to 3'-UTR to Intron from 3'-UTR to 3'-UTR,10828432.0,,10828432.0,5,Splice Junction ,22
+24,3'-UTR,3'-UTR,Intron from 3'-UTR to 3'-UTR,10828800.0,368.0,10828432.0,6,Intron,6
+5,,,Splice Junction Intron from 3'-UTR to 3'-UTR to Exon from 3'-UTR to 3'-UTR,10828801.0,,10828800.0,6,Splice Junction ,23
+25,3'-UTR,3'-UTR,Exon from 3'-UTR to 3'-UTR,10828928.0,127.0,10828801.0,6,Exon,6
+5,,,Splice Junction Exon from 3'-UTR to 3'-UTR to Intron from 3'-UTR to 3'-UTR,10828928.0,,10828928.0,6,Splice Junction ,24
+26,3'-UTR,3'-UTR,Intron from 3'-UTR to 3'-UTR,10829079.0,151.0,10828928.0,7,Intron,7
+6,,,Splice Junction Intron from 3'-UTR to 3'-UTR to Exon from 3'-UTR to 3'-UTR,10829080.0,,10829079.0,7,Splice Junction ,25
+27,3'-UTR,3'-UTR,Exon from 3'-UTR to 3'-UTR,10829631.0,551.0,10829080.0,7,Exon,7

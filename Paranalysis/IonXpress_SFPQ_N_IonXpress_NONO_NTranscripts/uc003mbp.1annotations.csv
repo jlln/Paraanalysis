@@ -1,0 +1,14 @@
+,End_Region,Start_Region,feature_classification,feature_end,feature_length,feature_start,feature_subtype_index,feature_type,feature_type_index
+0,,,5'-UTR,171638833.0,2184.0,171636649.0,1,5'-UTR,1
+1,Coding_Region,5'-UTR,Exon from 5'-UTR to Coding_Region,171639231.0,2582.0,171636649.0,1,Exon,2
+0,,,Translation_Start,171638833.0,,171638833.0,1,Translation_Start,1
+0,,,Splice Junction Exon from 5'-UTR to Coding_Region to Intron from Coding_Region to Coding_Region,171639231.0,,171639231.0,1,Splice Junction ,1
+2,Coding_Region,Coding_Region,Intron from Coding_Region to Coding_Region,171661124.0,21893.0,171639231.0,1,Intron,1
+0,,,Splice Junction Intron from Coding_Region to Coding_Region to Exon from Coding_Region to Coding_Region,171661125.0,,171661124.0,1,Splice Junction ,2
+3,Coding_Region,Coding_Region,Exon from Coding_Region to Coding_Region,171661362.0,237.0,171661125.0,1,Exon,3
+0,,,Splice Junction Exon from Coding_Region to Coding_Region to Intron from Coding_Region to Coding_Region,171661362.0,,171661362.0,1,Splice Junction ,3
+4,Coding_Region,Coding_Region,Intron from Coding_Region to Coding_Region,171710598.0,49236.0,171661362.0,2,Intron,2
+0,,,Splice Junction Intron from Coding_Region to Coding_Region to Exon from Coding_Region to 3'-UTR,171710599.0,,171710598.0,1,Splice Junction ,4
+5,3'-UTR,Coding_Region,Exon from Coding_Region to 3'-UTR,171710795.0,196.0,171710599.0,1,Exon,1
+0,,,Translation_End,171710669.0,,171710669.0,1,Translation_End,1
+6,,,3'-UTR,171710795.0,126.0,171710669.0,1,3'-UTR,1

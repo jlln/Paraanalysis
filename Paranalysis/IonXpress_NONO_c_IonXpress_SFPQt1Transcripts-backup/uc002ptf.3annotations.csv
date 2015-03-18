@@ -1,0 +1,22 @@
+,End_Region,Start_Region,feature_classification,feature_end,feature_length,feature_start,feature_subtype_index,feature_type,feature_type_index
+0,,,5'-UTR,51301351,391.0,51300960,1,5'-UTR,1
+1,3'-UTR,5'-UTR,Exon from 5'-UTR to 3'-UTR,51302215,1255.0,51300960,1,Exon,1
+0,,,Translation_Start,51301351,,51301351,1,Translation_Start,1
+2,,,3'-UTR,51307974,6269.0,51301705,1,3'-UTR,1
+0,,,Translation_End,51301705,,51301705,1,Translation_End,1
+3,3'-UTR,3'-UTR,Intron from 3'-UTR to 3'-UTR,51302549,334.0,51302215,1,Intron,1
+0,,,Splice Junction Exon from 5'-UTR to 3'-UTR to Intron from 3'-UTR to 3'-UTR,51302215,,51302215,1,Splice Junction ,1
+0,,,Splice Junction Intron from 3'-UTR to 3'-UTR to Exon from 3'-UTR to 3'-UTR,51302550,,51302549,1,Splice Junction ,2
+4,3'-UTR,3'-UTR,Exon from 3'-UTR to 3'-UTR,51302614,64.0,51302550,1,Exon,2
+0,,,Splice Junction Exon from 3'-UTR to 3'-UTR to Intron from 3'-UTR to 3'-UTR,51302614,,51302614,1,Splice Junction ,3
+5,3'-UTR,3'-UTR,Intron from 3'-UTR to 3'-UTR,51305472,2858.0,51302614,2,Intron,2
+1,,,Splice Junction Intron from 3'-UTR to 3'-UTR to Exon from 3'-UTR to 3'-UTR,51305473,,51305472,2,Splice Junction ,4
+6,3'-UTR,3'-UTR,Exon from 3'-UTR to 3'-UTR,51305514,41.0,51305473,2,Exon,3
+7,3'-UTR,3'-UTR,Intron from 3'-UTR to 3'-UTR,51305709,195.0,51305514,3,Intron,3
+1,,,Splice Junction Exon from 3'-UTR to 3'-UTR to Intron from 3'-UTR to 3'-UTR,51305514,,51305514,2,Splice Junction ,5
+2,,,Splice Junction Intron from 3'-UTR to 3'-UTR to Exon from 3'-UTR to 3'-UTR,51305710,,51305709,3,Splice Junction ,6
+8,3'-UTR,3'-UTR,Exon from 3'-UTR to 3'-UTR,51305871,161.0,51305710,3,Exon,4
+2,,,Splice Junction Exon from 3'-UTR to 3'-UTR to Intron from 3'-UTR to 3'-UTR,51305871,,51305871,3,Splice Junction ,7
+9,3'-UTR,3'-UTR,Intron from 3'-UTR to 3'-UTR,51307827,1956.0,51305871,4,Intron,4
+3,,,Splice Junction Intron from 3'-UTR to 3'-UTR to Exon from 3'-UTR to 3'-UTR,51307828,,51307827,4,Splice Junction ,8
+10,3'-UTR,3'-UTR,Exon from 3'-UTR to 3'-UTR,51307974,146.0,51307828,4,Exon,5

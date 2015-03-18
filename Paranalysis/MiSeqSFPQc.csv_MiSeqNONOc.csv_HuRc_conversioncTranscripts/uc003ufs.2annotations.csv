@@ -1,0 +1,10 @@
+,feature_classification,feature_end,feature_length,feature_start,feature_subtype_index,feature_type,feature_type_index
+0,Exon in a ncRNA,76179178,521.0,76178657,1.0,Exon,1
+0,Splice Junction Exon in a ncRNA to Intron in a ncRNA,76179178,,76179178,,Splice Junction ,1
+1,Intron in a ncRNA,76180735,1557.0,76179178,1.0,Intron,1
+1,Splice Junction Intron in a ncRNA to Exon in a ncRNA,76180736,,76180735,,Splice Junction ,2
+2,Exon in a ncRNA,76180839,103.0,76180736,2.0,Exon,2
+2,Splice Junction Exon in a ncRNA to Intron in a ncRNA,76180839,,76180839,,Splice Junction ,3
+3,Intron in a ncRNA,76255236,74397.0,76180839,2.0,Intron,2
+3,Splice Junction Intron in a ncRNA to Exon in a ncRNA,76255237,,76255236,,Splice Junction ,4
+4,Exon in a ncRNA,76257299,2062.0,76255237,3.0,Exon,3
